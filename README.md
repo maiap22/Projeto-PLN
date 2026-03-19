@@ -1,6 +1,6 @@
 # 📰 PLN News Analyzer — Sumarização e Análise de Sentimentos
 
-Pipeline de Processamento de Linguagem Natural que busca os **5 artigos mais recentes** de um país selecionado pelo usuário, realiza sumarização automática e classifica o sentimento geral de cada texto — tudo traduzido para o idioma escolhido.
+Pipeline de Processamento de Linguagem Natural que busca os **5 artigos mais recentes** de um país selecionado pelo usuário, realiza sumarização automática e classifica o sentimento geral de cada texto — tudo traduzido para o português.
 
 ---
 
@@ -93,7 +93,7 @@ O projeto requer duas chaves de API gratuitas. Siga os passos abaixo:
 
 3. Quando perguntado, informe:
    - O **código do país** (ex: `br`, `us`, `jp`, `fr`)
-   - O **idioma** desejado para os resultados
+   - O **idioma** da notícia que será traduzida
 
 ---
 
@@ -110,5 +110,3 @@ pln-news-analyzer/
 ## 📚 Contexto
 
 Projeto desenvolvido como trabalho acadêmico na disciplina de **Processamento de Linguagem Natural (PLN)** no curso de **Ciência da Computação** da **Universidade Federal do ABC (UFABC)**.
-
-**Autores:** Alexandre Janoni Bayerlein, Gabriel Maia Pedrosa, Vinícius Cordeiro
